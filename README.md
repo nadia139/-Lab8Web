@@ -31,7 +31,7 @@ Fungsi mysqli_connect() digunakan untuk membuat koneksi
 Pesan "Koneksi berhasil" menunjukkan koneksi database berjalan dengan baik
 
 
-<img width="840" height="390" alt="Screenshot 2025-11-17 132303" src="https://github.com/user-attachments/assets/ed289c59-288a-49f1-aaf1-79ab450a5f03" />
+<img width="975" height="340" alt="Screenshot 2025-11-17 144446" src="https://github.com/user-attachments/assets/3591ea69-bfa3-49e4-9c55-11fb7871c05b" />
 
 
 Menampilkan data barang dalam format tabel
